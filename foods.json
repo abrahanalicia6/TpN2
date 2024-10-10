@@ -1,0 +1,238 @@
+[
+    {
+        "name": "Sushi",
+        "description": "Un platillo japonés basado en arroz sazonado y pescado crudo.",
+        "image": "https://i.postimg.cc/Z5gtY1dx/SUSHI.jpg"
+    },
+    {
+        "name": "Cuy Asado",
+        "description": "Un platillo tradicional de Perú que utiliza cuy (conejillo de indias) asado.",
+        "image": "https://i.postimg.cc/5ypThGJv/CUY.jpg"
+    },
+    {
+        "name": "Kimchi",
+        "description": "Un plato coreano fermentado de vegetales, especialmente col y rábano.",
+        "image": "https://i.postimg.cc/kMwHX0rR/KIMCHI.webp"
+    },
+    {
+        "name": "Durian",
+        "description": "Una fruta famosa en el sudeste asiático por su olor fuerte y sabor único.",
+        "image": "https://i.postimg.cc/HsxhJ6HZ/DURIAN.jpg"
+    },
+        {
+            "name": "Fugu",
+            "description": "Pez globo japonés, conocido por su potencial toxicidad si no es preparado correctamente.",
+            "image": "https://i.postimg.cc/N074CXB2/FUGU.jpg"
+        },
+        {
+            "name": "Escamoles",
+            "description": "Huevos de hormiga comidos en México, a menudo llamados 'caviar de insectos'.",
+            "image": "https://i.postimg.cc/FRTxNQf9/ESCAMOLES.jpg"
+        },
+        {
+            "name": "Balut",
+            "description": "Un huevo fertilizado con un embrión de pato desarrollado que se come en Filipinas.",
+            "image": "https://i.postimg.cc/KYJTgDmf/BALUT.jpg"
+        },
+        {
+            "name": "Casu Marzu",
+            "description": "Un queso de Cerdeña con larvas vivas de insectos que lo hacen más suave y fermentado.",
+            "image": "https://i.postimg.cc/d1fT5QkT/CAZU.jpg"
+        },
+        {
+            "name": "Hákarl",
+            "description": "Carne de tiburón fermentada, un plato tradicional de Islandia.",
+            "image": "https://i.postimg.cc/kMVjqByz/H-karl.jpg"
+        },
+        {
+            "name": "Tarántula Frita",
+            "description": "Un plato popular en Camboya, donde las tarántulas se fríen y se comen.",
+            "image": "https://i.postimg.cc/43N5Mdd8/TARANTULAFRITA.jpg"
+        },
+        {
+            "name": "Sannakji",
+            "description": "Pulpo servido crudo en Corea del Sur, aún retorciéndose cuando se sirve.",
+            "image": "https://i.postimg.cc/g0SDPWLG/Sannakji.jpg"
+        },
+        {
+            "name": "Surströmming",
+            "description": "Arenque fermentado de Suecia, conocido por su fuerte y penetrante olor.",
+            "image": "https://i.postimg.cc/GtYJYT7p/Surstr-mming.jpg"
+        },
+        {
+            "name": "Haggis",
+            "description": "Un plato escocés hecho con órganos de oveja, avena y especias.",
+            "image": "https://i.postimg.cc/P5dzpxmt/Haggis.webp"
+        },
+        {
+            "name": "Kangaroo Meat",
+            "description": "Carne de canguro consumida comúnmente en Australia.",
+            "image": "https://i.postimg.cc/pd6D6J3T/Kangaroo-Meat.jpg"
+        },
+        {
+            "name": "Chapulines",
+            "description": "Saltamontes comidos en México, a menudo servidos tostados con chile y limón.",
+            "image": "https://i.postimg.cc/mkx7b2LW/Chapulines.jpg"
+        },
+        {
+            "name": "Escargots",
+            "description": "Caracoles cocidos y servidos como manjar en Francia.",
+            "image": "https://i.postimg.cc/GtkG9wt8/Escargots.webp"
+        },
+        {
+            "name": "Rocky Mountain Oysters",
+            "description": "Testículos de toro fritos, servidos comúnmente en Estados Unidos.",
+            "image": "https://i.postimg.cc/vH1QPPQk/Rocky-Mountain-Oysters.jpg"
+        },
+        {
+            "name": "Witchetty Grub",
+            "description": "Larvas grandes que se comen crudas o cocidas en la dieta tradicional aborigen australiana.",
+            "image": "https://i.postimg.cc/dtzJg831/Witchetty-Grub.jpg"
+        },
+        {
+            "name": "Smalahove",
+            "description": "Cabeza de oveja hervida, un platillo navideño tradicional en Noruega.",
+            "image": "https://i.postimg.cc/4xVXGmH1/Smalahove.jpg"
+        },
+        {
+            "name": "Muktuk",
+            "description": "Piel de ballena congelada o cruda, consumida tradicionalmente por los inuit.",
+            "image": "https://i.postimg.cc/ryHTtSSJ/Muktuk.jpg"
+        },
+        {
+            "name": "Boudin Noir",
+            "description": "Morcilla de sangre francesa, hecha con sangre de cerdo y especias.",
+            "image": "https://i.postimg.cc/RVnB1Ndz/Boudin-Noir.jpg"
+        },
+        {
+            "name": "Kopi Luwak",
+            "description": "Café hecho de granos que han sido ingeridos y excretados por civetas.",
+            "image": "https://i.postimg.cc/y84zLsp3/Kopi-Luwak.jpg"
+        },
+        {
+            "name": "Bushmeat",
+            "description": "Carne de animales salvajes africanos, como monos o antílopes.",
+            "image": "https://i.postimg.cc/cLRGj2P9/ushmeat.jpg"
+        },
+        {
+            "name": "Akutaq",
+            "description": "Helado esquimal hecho con grasa de foca, carne de pescado y bayas.",
+            "image": "https://i.postimg.cc/DZY9LTbZ/Akutaq.jpg"
+        },
+        {
+            "name": "Stink Bugs",
+            "description": "Insectos que se comen en algunos lugares de África por su sabor similar a manzana.",
+            "image": "https://i.postimg.cc/Wpx3PRfT/Stink-Bugs.jpg"
+        },
+        {
+            "name": "Century Egg",
+            "description": "Huevo chino fermentado durante semanas o meses, conocido por su color verde oscuro.",
+            "image": "https://i.postimg.cc/hPxGDCHx/Century-Egg.jpg"
+        },
+        {
+            "name": "Fried Rattlesnake",
+            "description": "Carne de serpiente de cascabel frita, popular en algunos estados del sur de Estados Unidos.",
+            "image": "https://i.postimg.cc/tJ69gTmy/Fried-Rattlesnake.jpg"
+        },
+        {
+            "name": "Khash",
+            "description": "Sopa armenia hecha con cabeza de vaca y pies hervidos.",
+            "image": "https://i.postimg.cc/h4QDsy4w/Khash.jpg"
+        },
+        {
+            "name": "Hormiga Culona",
+            "description": "Hormiga grande que se come en Colombia, tostada y salada.",
+            "image": "https://i.postimg.cc/vBgsPTy9/Hormiga-Culona.jpg"
+        },
+        {
+            "name": "Tong Zi Dan",
+            "description": "Huevos hervidos en orina de niños, un manjar chino tradicional.",
+            "image": "https://i.postimg.cc/br1jh5sw/Tong-Zi-Dan.jpg"
+        },
+        {
+            "name": "Yarsagumba",
+            "description": "Un hongo parásito que crece en larvas de oruga, considerado un manjar en Nepal.",
+            "image": "https://i.postimg.cc/RVzBRvD6/Yarsagumba.jpg"
+        },
+        {
+            "name": "Shirako",
+            "description": "Semilla de pez (esperma) servida cruda o cocida en Japón.",
+            "image": "https://i.postimg.cc/7ZKrw0Y0/shirako.jpg"
+        },
+        {
+            "name": "Criadillas",
+            "description": "Testículos de toro o cordero, comúnmente consumidos en España.",
+            "image": "https://i.postimg.cc/cCRPj8bK/riadillas.jpg"
+        },
+        {
+            "name": "Black Pudding",
+            "description": "Morcilla inglesa hecha con sangre de cerdo y avena.",
+            "image": "https://i.postimg.cc/KY1wbWWh/Black-Pudding.webp"
+        },
+        {
+            "name": "Fried Spiders",
+            "description": "Arañas fritas, comúnmente tarántulas, que se comen en Camboya.",
+            "image": "https://i.postimg.cc/BvRyngWL/Fried-Spiders.jpg"
+        },
+        {
+            "name": "Pig's Blood Cake",
+            "description": "Pastel taiwanés hecho de sangre de cerdo y arroz pegajoso.",
+            "image": "https://i.postimg.cc/KzLWkMF9/Pig-s-Blood-Cake.jpg"
+        },
+        {
+            "name": "Kangaroo Tail Soup",
+            "description": "Sopa tradicional de cola de canguro, muy popular en Australia.",
+            "image": "https://i.postimg.cc/x824K119/Kangaroo-Tail-Soup.jpg"
+        },
+        {
+            "name": "Jellied Moose Nose",
+            "description": "Nariz de alce cocida y enfriada en gelatina, un platillo de Canadá.",
+            "image": "https://i.postimg.cc/sfY837Tx/Jellied-Moose-Nose.jpg"
+        },
+        {
+            "name": "Chicha de Maíz",
+            "description": "Bebida fermentada hecha de maíz masticado, tradicional en los Andes.",
+            "image": "https://i.postimg.cc/vmCVsKNC/Chicha-de-Ma-z.jpg"
+        },
+        {
+            "name": "Fried Brain Sandwich",
+            "description": "Sándwich de cerebro de ternera frito, servido en algunos lugares de Estados Unidos.",
+            "image": "https://i.postimg.cc/MGfndDp5/Fried-Brain-Sandwich.jpg"
+        },
+        {
+            "name": "Poutine",
+            "description": "Plato canadiense hecho con papas fritas, salsa y queso cuajado.",
+            "image": "https://i.postimg.cc/x1hCJz3z/Poutine.jpg"
+        },
+        {
+            "name": "Blood Sausage",
+            "description": "Salchicha hecha con sangre coagulada, popular en muchas culturas europeas.",
+            "image": "https://i.postimg.cc/9fyWDNf6/Blood-Sausage.jpg"
+        },
+        {
+            "name": "Pidan",
+            "description": "También conocido como huevo milenario, un huevo conservado en arcilla durante semanas.",
+            "image": "https://i.postimg.cc/9MJHT3Hn/Pidan.jpg"
+        },
+        {
+            "name": "Snake Soup",
+            "description": "Sopa de serpiente servida en China, conocida por sus supuestos beneficios medicinales.",
+            "image": "https://i.postimg.cc/6q2bQFWR/Snake-Soup.jpg"
+        },
+        {
+            "name": "Vegemite",
+            "description": "Un extracto de levadura untado en pan, muy popular en Australia.",
+            "image": "https://i.postimg.cc/d1Lc8HQQ/Vegemite.jpg"
+        },
+        {
+            "name": "Ceviche de Pulpo",
+            "description": "Un ceviche hecho con pulpo marinado en limón, típico de la gastronomía peruana.",
+            "image": "https://i.postimg.cc/dVwMWtQx/Ceviche-de-Pulpo.jpg"
+        },
+        {
+            "name": "Roasted Guinea Pig",
+            "description": "Conocido como cuy en Perú, es un platillo que consiste en conejillo de indias asado.",
+            "image": "https://i.postimg.cc/tJ3SPW6C/Roasted-Guinea-Pig.jpg"
+        }
+    ]
+    
